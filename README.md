@@ -200,9 +200,7 @@ Bottom left:
 -Cars total mileage
 
 Top Center:
-
 -Left turn signal
-
 -Cruise control is on and activated. When cruise control is on, the symbol will appear white. When the driver activates cruise control, the symbol will turn green. Buttons to control the cruise control are located on steering wheel
 
 -Right turn signal
