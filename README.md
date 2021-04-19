@@ -185,21 +185,21 @@ select button located in center of dial and wait for a beep
 ### Center:
 -Speedometer in mph. Instead of a gauge, I went for a speedometer that just tells the driver directly how fast they are going
 
--Screen to scroll through
+- Screen to scroll through
  
-  -Tire PSI (Shown in display)
+  - Tire PSI (Shown in display)
   
-   -oil life (What is percentage of oil life remaining. Will notify check oil light to turn on when oil life is below 20%
+  - oil life (What is percentage of oil life remaining. Will notify check oil light to turn on when oil life is below 20%
   
-   -units (Driver can change display units from mph to kmph or vice versa)
+  - units (Driver can change display units from mph to kmph or vice versa)
   
-  -vehicle messages (When no messages, window will say "No vehicle messages". This will be where alerts are such as low gas, tire low, replace wiper fluid, Etc.)
+  - vehicle messages (When no messages, window will say "No vehicle messages". This will be where alerts are such as low gas, tire low, replace wiper fluid, Etc.)
  
- -trip A (If driver wants to track how many miles and mpg on a trip, they can use this feature by resetting to 0 by select dial)
+  - trip A (If driver wants to track how many miles and mpg on a trip, they can use this feature by resetting to 0 by select dial)
  
- -trip B (Same as trip A)
+  - trip B (Same as trip A)
  
- -display current song (Although not popularly used, will display album cover, song name, song artist, and source ie. iphone, FM103.7, Spotify)
+  - display current song (Although not popularly used, will display album cover, song name, song artist, and source ie. iphone, FM103.7, Spotify)
  
  - Can switch between screens by using the select knob/button.  
   
