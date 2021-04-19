@@ -1,6 +1,7 @@
 # p2ZoeSmith
-Project 2 URL: 
-Youtube URL:
+Project 2 URL: https://github.com/Zoee28/p2ZoeSmith
+
+Youtube URL: https://youtu.be/bGiR52OMWh4
 
 
 ## Car Dashboard 1
