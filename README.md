@@ -67,9 +67,44 @@ Pros:
 -Displays warning lights
 -Scrolling display by knob to the left of the steering wheel
 -Clearly tells you what gear the car is in
+-Alerts when a passenger is buckled up
 
 Cons:
 -Tachometer is not there
 -Engine temp gauge not there due to car being electric hybrid
 -Common issue is when I get to last gallon, the range changes to LOW rather than display miles left. 
 -Tire pressure reading delayed sometimes when filling tires up
+
+
+#Common uses of a Car Dashboard
+-reading speed
+-Telling if car is on
+-seeing how much range (gas and/or electric) the car has
+-Is there any issues with the car (any warning lights on or is a temperature gauge not acting normal)
+-Is cruise control on or ready to be used
+-Is turn signal on
+-What gear is the car in
+
+#Rate uses of a Car Dashboard
+-Controlling music
+-Using built in car navigation (I use navigation app)
+-Telling which direction the car is facing (N, S, E, W)
+
+#Improvements to be made
+-I took general layout of my current car's Dashboard and improved it (Dashboard #5)
+-Numeral speedometer in center, large font size to tell driver current speed
+-added tachometer and engine temperature gauge
+-made turn signals visible on screen
+-Gear shown is top right and current gear is circled
+-Kept screen to scroll through by dial which will be beside the Dashboard to left of driver
+-Screen will have tire PSI, oil life, units, vehicle messages, trip A, trip B, and display current song. If you want to reset oil life, trip A, or trip B, hold down select button located in center of dial and wait for a beep
+-Gasoline levels
+  -Green from full tank up to 2 gallons left
+  -Orange from 2 gallons left to 1 gallon
+  -red from 1 gallon to empty
+  -Will always display range even when on last gallon. Will send an alert and vehicle message every 5 miles driven while in Red 
+
+
+New Design:
+
+![Untitled Diagram(1)](https://user-images.githubusercontent.com/74264662/115173701-7cd37d80-a08d-11eb-87e2-11c026c18b1f.jpg)
