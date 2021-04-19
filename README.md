@@ -184,3 +184,45 @@ select button located in center of dial and wait for a beep
 
 ### Center:
 -Speedometer in mph. Instead of a gauge, I went for a speedometer that just tells the driver directly how fast they are going
+
+-Screen to scroll through
+ 
+  -Tire PSI (Shown in display)
+  
+   -oil life (What is percentage of oil life remaining. Will notify check oil light to turn on when oil life is below 20%
+  
+   -units (Driver can change display units from mph to kmph or vice versa)
+  
+  -vehicle messages (When no messages, window will say "No vehicle messages". This will be where alerts are such as low gas, tire low, replace wiper fluid, Etc.)
+ 
+ -trip A (If driver wants to track how many miles and mpg on a trip, they can use this feature by resetting to 0 by select dial)
+ 
+ -trip B (Same as trip A)
+ 
+ -display current song (Although not popularly used, will display album cover, song name, song artist, and source ie. iphone, FM103.7, Spotify)
+ 
+ - Can switch between screens by using the select knob/button.  
+  
+  ### Bottom Center
+  -Outside temperature displayed in Fahrenheit
+  
+  -Cardinal direction car is facing
+  
+  ### Top Right
+  -Headlight symbol (Indicates if the headlights are on)
+  
+  -Gears (Vehicle has gears P = Park, R = Reverse, N = Neutral, D = Drive, or L = Low gear. The gear the vehicle is currently in will be circled.
+  
+  ### Center Right
+  -Fuel indicator (Will tell driver how many miles of gasoline range they have. fuel pump diplay will be green from full up to 2 gallons left in tank. Fuel pump display will appear orange as shwon above until only 1 gallon remains. For less than 1 gallon, fuel pump display will be red and will send an vehicle alert message every 5 miles the range drops, but unlike Dashboard 5 will still tell driver range)
+  
+  -Engine temperature gauge (will tell if engine temperature is normal)
+  
+  ### Right
+  -Loss of traction symbol (If traction is low, this symbol will flash and send a vehicle alert message saying "Low traction")
+  
+  -ABS symbol
+  
+  -check oil light (Will turn on when oil life is below 20%)
+  
+  -Engine temperature symbol (Will turn on if engine temperature is abnormally high. Is position next to engine temperature gauge)
