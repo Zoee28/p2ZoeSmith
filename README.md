@@ -4,21 +4,16 @@ Youtube URL:
 
 
 ## Car Dashboard 1
-
 ![dash1](https://user-images.githubusercontent.com/74264662/115169221-0598ec00-a083-11eb-8319-613c399aece4.png)
 
 ### Pros: 
-
 -Includes all the things needed for a dashboard
 
-
 -2 places to read your speed
-
 
 -bright colors contrasting black background
 
 ### Cons:
-
 -No easy way to change units from kmh to mph
 
 -The display for actual numerical speed is at bottom and very small to read, making its use unpractical
@@ -27,17 +22,14 @@ Youtube URL:
 
 
 ## Car Dashboard 2
-
 ![dash2](https://user-images.githubusercontent.com/74264662/115169466-b0a9a580-a083-11eb-8b35-b4fc330dd15b.jpeg)
 
 ### Pros: 
-
 -Speedometer is centered and large
 
 -diplays current time 
 
 ### Cons:
-
 -Warning symbols are kind of scattered across the display
 
 -Unsure where turn signal or headlights symbols are displayed
@@ -46,29 +38,25 @@ Youtube URL:
 
 
 ## Car Dashboard 3
-
 ![dash3](https://user-images.githubusercontent.com/74264662/115169618-2d3c8400-a084-11eb-97d7-d38b4e9150ba.jpg)
 
 ### Pros: 
-
 -Displays tachometer, speedometer, gas, time, outside temp, and engine temp
 
 -Displays what gear the car is in
 
 ### Cons: 
-
 -tachometer is larger and in center rather than the speedometer
 
 -Unclear what the bars on left stand for
 
 -Do not see warning lights
 
-## Car Dashboard 4
 
+## Car Dashboard 4
 ![dash4](https://user-images.githubusercontent.com/74264662/115171150-08e2a680-a088-11eb-979c-dabd1c3ba88e.jpg)
 
 ### Pros:
-
 -Diplays engine temp, gas, tachometer, speedometer, warning lights, and outside temp
 
 -2 places to read speedometer
@@ -78,19 +66,17 @@ Youtube URL:
 -Tells you what gear you are in
 
 ### Cons:
-
 -Too many gauges that I it is hard to tell which one you should look at
 
 -I can't tell what the gauge on bottom right is telling the driver
 
 -Have to look around the entire display to find the warning lights. 
 
-## Car Dashboard 5
 
+## Car Dashboard 5
 ![Hnet-image(2)(1)](https://user-images.githubusercontent.com/74264662/115172077-1436d180-a08a-11eb-862a-d34f37595ca5.gif)
 
 ### Pros:
-
 -LCD display
 
 -speedometer clear
@@ -106,7 +92,6 @@ Youtube URL:
 -Alerts when a passenger is buckled up
 
 ### Cons:
-
 -Tachometer is not there
 
 -Engine temp gauge not there due to car being electric hybrid
@@ -118,7 +103,6 @@ Youtube URL:
 
 
 ## Common uses of a Car Dashboard
-
 -reading speed
 
 -Telling if car is on
@@ -133,8 +117,8 @@ Youtube URL:
 
 -What gear is the car in
 
-## Rate uses of a Car Dashboard
 
+## Rate uses of a Car Dashboard
 -Controlling music
 
 -Using built in car navigation (I use navigation app)
@@ -143,7 +127,6 @@ Youtube URL:
 
 
 ## Improvements to be made
-
 -I took general layout of my current car's Dashboard and improved it (Dashboard #5)
 
 -Numeral speedometer in center, large font size to tell driver current speed
@@ -171,17 +154,13 @@ select button located in center of dial and wait for a beep
 
 
 ## New Design:
-
 ![Untitled Diagram(1)](https://user-images.githubusercontent.com/74264662/115173701-7cd37d80-a08d-11eb-87e2-11c026c18b1f.jpg)
 
 ## Features:
-
 ### Top left:
-
 -Seat belt warning symbol and symbol for back passengers seat belts. When a seatbelt is buckled for passenger, their seat will turn green
 
 ### Far left:
-
 -Tire pressure warning light
 
 -Check engine light
@@ -191,15 +170,12 @@ select button located in center of dial and wait for a beep
 -Check airbag light
 
 ### Center left:
-
 -Tachometer measuring RPMs
 
 ### Bottom left:
-
 -Cars total mileage
 
 ### Top Center:
-
 -Left turn signal
 
 -Cruise control is on and activated. When cruise control is on, the symbol will appear white. When the driver activates cruise control, the symbol will turn green. Buttons to control the cruise control are located on steering wheel
@@ -207,5 +183,4 @@ select button located in center of dial and wait for a beep
 -Right turn signal
 
 ### Center:
-
 -Speedometer in mph. Instead of a gauge, I went for a speedometer that just tells the driver directly how fast they are going
